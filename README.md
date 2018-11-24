@@ -17,3 +17,15 @@ write a function that takes in a value and inserts it into the center position o
 
 ##solution
 ![WHITE BOARD](assets/challengetwo.jpg)
+
+
+ #Binary Search an array
+
+ ##challenge
+ write a function thast take in an array and a value and uses a binary search method to locate the value within the array. 
+
+ ##solution 
+ ![WHITE BOARD](arrayBinarySearch/bsearch.jpg)
+
+
+#
