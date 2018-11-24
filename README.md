@@ -2,29 +2,29 @@
 The object of this challenge to write a function that does not use and built in methods and that  
 
 
-##Challenge 
+## Challenge 
 Write a function called reverseArray which takes an array as an argument. Without utilizing any of the built-in methods available to your language, return the provided array argument with elements in reversed order.
 
-##Solution 
+## Solution 
 ![WHITE BOARD](assets/challengeone.jpg)
 
 
 
-#shift an array
+# shift an array
 
-##challenge
+## challenge
 write a function that takes in a value and inserts it into the center position of an array with out using built in methods
 
-##solution
+## solution
 ![WHITE BOARD](assets/challengetwo.jpg)
 
 
- #Binary Search an array
+ # Binary Search an array
 
- ##challenge
+ ## challenge
  write a function thast take in an array and a value and uses a binary search method to locate the value within the array. 
 
- ##solution 
+ ## solution 
  ![WHITE BOARD](arrayBinarySearch/bsearch.jpg)
 
 
