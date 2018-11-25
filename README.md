@@ -47,10 +47,21 @@ write a function that adds a value in a numbered position from the end of the li
 # FIZZ BUZZ TREE
 
 ## challenge 
-use a breadth first search in a binary tree
+change the value of the node based on the current nodes value
 
 ## contributors
 Ashley Breunich, Ed Puzino, Hollie Thomas
 
 ## solution
 ![WHITE BOARD](fizzbuzztree/fizz_buzz_tree.jpg)
+
+# BREADTH FIRST TRAVERSAL
+
+## challenge
+use a breadth first search in a binary tree
+
+## contributors
+Ashley Breunich, Ed Puzino, Hollie Thomas
+
+## solution
+![WHITE BOARD](breadthfirst/breadthfirst.jpg)
