@@ -29,3 +29,22 @@ kth_from_end(k){
   }
   return curr; 
 }
+
+merge(val1, val2){
+  let C = val1.head;
+  let A = new Node(val1);
+  let B = new Node(val2);
+  if(A && B){
+    C.head = A.head;
+    C.next = B.head;
+  }
+while(A.next){
+  C.next = A.next;
+  A.head = A.next;
+}
+if(B.next){
+  C.next = B.next;
+  B.head = B.next;
+}
+return C;
+}
