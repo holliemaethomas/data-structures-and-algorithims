@@ -53,7 +53,7 @@ change the value of the node based on the current nodes value
 Ashley Breunich, Ed Puzino, Hollie Thomas
 
 ## solution
-![WHITE BOARD](fizzbuzztree/fizz_buzz_tree.jpg)
+![WHITE BOARD](tree/fizzbuzztree/fizz_buzz_tree.jpg)
 
 # BREADTH FIRST TRAVERSAL
 
@@ -64,4 +64,12 @@ use a breadth first search in a binary tree
 Ashley Breunich, Ed Puzino, Hollie Thomas
 
 ## solution
-![WHITE BOARD](breadthfirst/breadthfirst.jpg)
+![WHITE BOARD](tree/breadthfirst/breadthfirst.jpg)
+
+# FIND MAX VALUE IN A BINARY TREE
+
+## challenge 
+travers a binary tree and find the max value
+
+## solution
+![WHITE BOARD](tree/findmaxvalue/maxval.jpg)

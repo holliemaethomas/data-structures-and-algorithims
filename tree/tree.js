@@ -121,6 +121,44 @@ class BinarySearchTree {
 
     return results;
   }
+    
+fizzBuzzTree(){
+  let ._walk = node => {
+    if(node.left){
+      _walk(node.left)
+    }
+    if(node.right){
+      _walk(node.right);
+    }
+    if(node.value %3 === 0 && node.value %5 === 0){
+      node.value = "FizzBuzz";
+    }
+    else if(node.value %3 === 0){
+      node.value = "fizz";
+    }
+    else if (node.value % 5 === 0){
+      node.value = "buzz";
+    }
+    return tree;
+  }
+}
+
+findMaxValue(tree){
+  let maxValue = 0;
+  let _walk = node => {
+    if(node.left){
+      _walk(node.left);
+    }
+    if(node.right){
+      _walk(node.right);
+    }
+    if(node.value > maxValue){
+      maxValue = node.value;
+    }
+  }
+  return maxValue
+}
+
 }
 
 let tree = new BinarySearchTree();
