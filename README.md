@@ -65,3 +65,12 @@ Ashley Breunich, Ed Puzino, Hollie Thomas
 
 ## solution
 ![WHITE BOARD](tree/breadthfirst/breadth.jpg)
+
+# CHALLENGE
+Find max value in a binary tree
+
+## contributors
+Ashley Breunich, Ed Puzino, Hollie Thomas
+
+## solution
+![WHITE BOARD](tree/findMaxValue/findmax.jpg)
