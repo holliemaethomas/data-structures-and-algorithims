@@ -64,4 +64,4 @@ use a breadth first search in a binary tree
 Ashley Breunich, Ed Puzino, Hollie Thomas
 
 ## solution
-![WHITE BOARD]('./tree/breadthfirst/breadthfirst.jpg')
+![WHITE BOARD](breadthfirst/breadthfirst.jpg)
