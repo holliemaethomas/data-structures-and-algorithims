@@ -50,7 +50,7 @@ write a function that adds a value in a numbered position from the end of the li
 use a breadth first search in a binary tree
 
 ## contributors
-Ashley and Edd and me
+Ashley Breunich, Ed Puzino, Hollie Thomas
 
 ## solution
 ![WHITE BOARD](fizzbuzztree/fizz_buzz_tree.jpg)
