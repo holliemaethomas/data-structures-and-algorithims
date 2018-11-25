@@ -43,3 +43,14 @@ write a function that adds a value in a numbered position from the end of the li
 
 ## solution
 ![WHITE BOARD](linkedlist/kthfromend.jpg)
+
+# FIZZ BUZZ TREE
+
+## challenge 
+use a breadth first search in a binary tree
+
+## contributors
+Ashley and Edd and me
+
+## solution
+![WHITE BOARD](fizzbuzztree/fizz_buzz_tree.jpg)
