@@ -28,4 +28,10 @@ write a function that takes in a value and inserts it into the center position o
  ![WHITE BOARD](arrayBinarySearch/bsearch.jpg)
 
 
-#
+# Insert Before and After in a linked List 
+
+## challenge
+write a function that takes in a new value which can be inserted before or after a given search value
+
+## solution
+![WHITE BOARD](linkedlist/challengesix.jpg)
