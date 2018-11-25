@@ -34,4 +34,12 @@ write a function that takes in a value and inserts it into the center position o
 write a function that takes in a new value which can be inserted before or after a given search value
 
 ## solution
-![WHITE BOARD](linkedlist/challengesix.jpg)
+![WHITE BOARD](linkedlist/insertbeforeandafter.jpg)
+
+# kth from end
+
+## challenge
+write a function that adds a value in a numbered position from the end of the linked list
+
+## solution
+![WHITE BOARD](linkedlist/kthfromend.jpg)

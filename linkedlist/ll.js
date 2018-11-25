@@ -21,3 +21,11 @@ insert_after(searchValue, newValue){
     }
   }
 }
+
+kth_from_end(k){
+  let curr = this.head;
+  for (let i = 0; i<this.length -(k-1);i++){
+    curr = curr.next;
+  }
+  return curr; 
+}
