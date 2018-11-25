@@ -74,3 +74,12 @@ Ashley Breunich, Ed Puzino, Hollie Thomas
 
 ## solution
 ![WHITE BOARD](tree/findMaxValue/findmax.jpg)
+
+# CHALLENGE
+merge two given values in a linked list
+
+## contributors
+Ed Puzino, walked me through this one. his was done on a different date so I am not listed on his. 
+
+## solution
+![WHITE BOARD](linkedlist/11merge.jpg)
