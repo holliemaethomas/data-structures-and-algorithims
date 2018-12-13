@@ -83,3 +83,12 @@ Ed Puzino, walked me through this one. his was done on a different date so I am 
 
 ## solution
 ![WHITE BOARD](linkedlist/llmerge.jpg)
+
+# CHALLENGE 
+search a string and return the first repeated word
+
+## contributos
+Mike Kermes
+
+## solution
+![WHITE BOARD](repeatedWord/img/whiteboard26.jpg)
